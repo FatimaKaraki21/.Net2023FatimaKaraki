@@ -1,0 +1,485 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ShoppingCart
+build_property.RootNamespace = ShoppingCart
+build_property.ProjectDir = C:\Users\HP\Source\Repos\.Net2023FatimaKaraki\ShoppingCart\ShoppingCart\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\HP\Source\Repos\.Net2023FatimaKaraki\ShoppingCart\ShoppingCart
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Analytics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW5hbHl0aWNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Products/EditPrice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRWRpdFByaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/layout/header/_base.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXGxheW91dFxoZWFkZXJcX2Jhc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/layout/header/__menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXGxheW91dFxoZWFkZXJcX19tZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/layout/header/__topbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXGxheW91dFxoZWFkZXJcX190b3BiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/layout/partials/header/_menu/__dashboards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXGxheW91dFxwYXJ0aWFsc1xoZWFkZXJcX21lbnVcX19kYXNoYm9hcmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/layout/partials/header/_menu/__pages-account.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXGxheW91dFxwYXJ0aWFsc1xoZWFkZXJcX21lbnVcX19wYWdlcy1hY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/layout/partials/header/_menu/__pages-authentication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXGxheW91dFxwYXJ0aWFsc1xoZWFkZXJcX21lbnVcX19wYWdlcy1hdXRoZW50aWNhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/layout/partials/header/_menu/__pages-general.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXGxheW91dFxwYXJ0aWFsc1xoZWFkZXJcX21lbnVcX19wYWdlcy1nZW5lcmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/layout/partials/header/_menu/__pages-utilities.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXGxheW91dFxwYXJ0aWFsc1xoZWFkZXJcX21lbnVcX19wYWdlcy11dGlsaXRpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/layout/partials/header/_menu/__pages-widgets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXGxheW91dFxwYXJ0aWFsc1xoZWFkZXJcX21lbnVcX19wYWdlcy13aWRnZXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/layout/partials/header/_menu/__pages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXGxheW91dFxwYXJ0aWFsc1xoZWFkZXJcX21lbnVcX19wYWdlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/layout/_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXGxheW91dFxfZm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/layout/_page-title.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXGxheW91dFxfcGFnZS10aXRsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/layout/_toolbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXGxheW91dFxfdG9vbGJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/drawers/_activity-drawer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXGRyYXdlcnNcX2FjdGl2aXR5LWRyYXdlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/drawers/_chat-messenger.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXGRyYXdlcnNcX2NoYXQtbWVzc2VuZ2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/drawers/_shopping-cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXGRyYXdlcnNcX3Nob3BwaW5nLWNhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/general/_button-indicator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXGdlbmVyYWxcX2J1dHRvbi1pbmRpY2F0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/general/_form-tooltip-hint.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXGdlbmVyYWxcX2Zvcm0tdG9vbHRpcC1oaW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/general/_notice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXGdlbmVyYWxcX25vdGljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/menus/_menu-1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1lbnVzXF9tZW51LTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/menus/_menu-2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1lbnVzXF9tZW51LTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/menus/_menu-3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1lbnVzXF9tZW51LTMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/menus/_notifications-menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1lbnVzXF9ub3RpZmljYXRpb25zLW1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/menus/_quick-links-menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1lbnVzXF9xdWljay1saW5rcy1tZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/menus/_user-account-menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1lbnVzXF91c2VyLWFjY291bnQtbWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/create-app/steps/_step-1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1xjcmVhdGUtYXBwXHN0ZXBzXF9zdGVwLTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/create-app/steps/_step-2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1xjcmVhdGUtYXBwXHN0ZXBzXF9zdGVwLTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/create-app/steps/_step-3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1xjcmVhdGUtYXBwXHN0ZXBzXF9zdGVwLTMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/create-app/steps/_step-4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1xjcmVhdGUtYXBwXHN0ZXBzXF9zdGVwLTQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/create-app/steps/_step-5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1xjcmVhdGUtYXBwXHN0ZXBzXF9zdGVwLTUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/create-app/_main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1xjcmVhdGUtYXBwXF9tYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/create-campaign/steps/_step-1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1xjcmVhdGUtY2FtcGFpZ25cc3RlcHNcX3N0ZXAtMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/create-campaign/steps/_step-2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1xjcmVhdGUtY2FtcGFpZ25cc3RlcHNcX3N0ZXAtMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/create-campaign/steps/_step-3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1xjcmVhdGUtY2FtcGFpZ25cc3RlcHNcX3N0ZXAtMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/create-campaign/steps/_step-4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1xjcmVhdGUtY2FtcGFpZ25cc3RlcHNcX3N0ZXAtNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/create-campaign/steps/_step-5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1xjcmVhdGUtY2FtcGFpZ25cc3RlcHNcX3N0ZXAtNS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/create-campaign/_main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1xjcmVhdGUtY2FtcGFpZ25cX21haW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/new-card/_form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1xuZXctY2FyZFxfZm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/users-search/partials/_empty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1x1c2Vycy1zZWFyY2hccGFydGlhbHNcX2VtcHR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/users-search/partials/_results.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1x1c2Vycy1zZWFyY2hccGFydGlhbHNcX3Jlc3VsdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/users-search/partials/_suggestions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1x1c2Vycy1zZWFyY2hccGFydGlhbHNcX3N1Z2dlc3Rpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/users-search/_main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1x1c2Vycy1zZWFyY2hcX21haW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/_invite-friends.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1xfaW52aXRlLWZyaWVuZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/modals/_upgrade-plan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXG1vZGFsc1xfdXBncmFkZS1wbGFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/scrolltop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHNjcm9sbHRvcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/search/partials/_advanced-options.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHNlYXJjaFxwYXJ0aWFsc1xfYWR2YW5jZWQtb3B0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/search/partials/_empty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHNlYXJjaFxwYXJ0aWFsc1xfZW1wdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/search/partials/_form-dropdown.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHNlYXJjaFxwYXJ0aWFsc1xfZm9ybS1kcm9wZG93bi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/search/partials/_main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHNlYXJjaFxwYXJ0aWFsc1xfbWFpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/search/partials/_preferences.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHNlYXJjaFxwYXJ0aWFsc1xfcHJlZmVyZW5jZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/search/partials/_results.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHNlYXJjaFxwYXJ0aWFsc1xfcmVzdWx0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/search/_dropdown.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHNlYXJjaFxfZHJvcGRvd24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/theme-mode/_init.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHRoZW1lLW1vZGVcX2luaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/theme-mode/_main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHRoZW1lLW1vZGVcX21haW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/theme-mode/__menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHRoZW1lLW1vZGVcX19tZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/widgets-2/lists/_widget-2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHdpZGdldHMtMlxsaXN0c1xfd2lkZ2V0LTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/widgets-2/lists/_widget-3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHdpZGdldHMtMlxsaXN0c1xfd2lkZ2V0LTMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/widgets-2/lists/_widget-4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHdpZGdldHMtMlxsaXN0c1xfd2lkZ2V0LTQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/widgets-2/lists/_widget-5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHdpZGdldHMtMlxsaXN0c1xfd2lkZ2V0LTUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/widgets-2/lists/_widget-6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHdpZGdldHMtMlxsaXN0c1xfd2lkZ2V0LTYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/widgets-2/mixed/_widget-10.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHdpZGdldHMtMlxtaXhlZFxfd2lkZ2V0LTEwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/widgets-2/mixed/_widget-2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHdpZGdldHMtMlxtaXhlZFxfd2lkZ2V0LTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/widgets-2/mixed/_widget-5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHdpZGdldHMtMlxtaXhlZFxfd2lkZ2V0LTUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/widgets-2/mixed/_widget-7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHdpZGdldHMtMlxtaXhlZFxfd2lkZ2V0LTcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/widgets-2/tables/_widget-9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHdpZGdldHMtMlx0YWJsZXNcX3dpZGdldC05LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/widgets-2/tiles/_widget-1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHdpZGdldHMtMlx0aWxlc1xfd2lkZ2V0LTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/widgets-2/tiles/_widget-2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHdpZGdldHMtMlx0aWxlc1xfd2lkZ2V0LTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/widgets-2/tiles/_widget-3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHdpZGdldHMtMlx0aWxlc1xfd2lkZ2V0LTMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/widgets-2/tiles/_widget-4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHdpZGdldHMtMlx0aWxlc1xfd2lkZ2V0LTQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/metronic/partials/widgets-2/tiles/_widget-5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXG1ldHJvbmljXHBhcnRpYWxzXHdpZGdldHMtMlx0aWxlc1xfd2lkZ2V0LTUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/_NotificationPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Account/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Account/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Cart/CreateOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDcmVhdGVPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Cart/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Cart/ListOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxMaXN0T3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/CheckOut/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tPdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Order/Summary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcU3VtbWFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Products/ReadReviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcUmVhZFJldmlld3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Shared/Components/Categories/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcmllc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Shared/Components/MainMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWFpbk1lbnVcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Shared/Components/SmallCart/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU21hbGxDYXJ0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Shared/_NotificationPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ng3sh4r740
+
+[C:/Users/HP/Source/Repos/.Net2023FatimaKaraki/ShoppingCart/ShoppingCart/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ce7yr55nmi

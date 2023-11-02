@@ -1,0 +1,57 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+
+}
+.sale-image {
+    
+    width: 120px;
+    height: 120px;
+    border-radius: 80%;
+}
+
+
+
+#centered-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+
+#animate-text {
+    white-space: nowrap; /* Prevent line breaks */
+    overflow: hidden; /* Hide overflowing text */
+    color: #e75480;
+    animation: typing 4s steps(40, end), blink-caret 0.75s step-end infinite;
+}
+#Title {
+    color: #e75480;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+
+a {
+    color: purple;
+}
+a:hover{
+    color: rebeccapurple;
+}

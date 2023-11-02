@@ -1,0 +1,60 @@
+﻿@model Order
+
+<div class="container-fluid row">
+    <div class="col-lg-6 col-md-12">
+        <div class="form-container">
+            <div class="form-group">
+                <label for="firstName" class="form-label">First Name:</label>
+                <div id="firstName" class="form-field bg-light rounded">@Model.FirstName</div>
+            </div>
+
+            <div class="form-group">
+                <label for="lastName" class="form-label">Last Name:</label>
+                <div id="lastName" class="form-field bg-light rounded">@Model.LastName</div>
+            </div>
+
+            <div class="form-group">
+                <label for="address" class="form-label">Shipping Address:</label>
+                <div id="address" class="form-field bg-light rounded">@Model.ShippingAddress</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-6 col-md-12 p-3 bg-light border rounded">
+        <h2 class="text-dark">Products</h2>
+        @foreach (var item in Model.OrderItemsIds)
+        {
+            <div class="product-details my-3 p-3 border rounded">
+                <div class="row">
+                    <div class="col-3">
+                        <img class="img-fluid rounded" src="~/media/products/@item.Image" alt="@item.ProductName" />
+                    </div>
+                    <div class="col">
+                        <div class="row">
+                            <div class="col">
+                                <h4 class="text-dark">@item.ProductName</h4>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <p><strong>Price:</strong> $@item.Price</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <p><strong>Quantity:</strong> @item.Quantity</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <p><strong>Total:</strong> $@item.Total</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+
+</div>
