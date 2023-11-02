@@ -1,0 +1,461 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShoppingCart.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShoppingCart.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\css\\details.css",
+      "PackagePath": "staticwebassets\\css\\details.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\Admin.jpeg",
+      "PackagePath": "staticwebassets\\media\\Admin.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\Sale.jpg",
+      "PackagePath": "staticwebassets\\media\\Sale.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\Shoppingcart.jpg",
+      "PackagePath": "staticwebassets\\media\\Shoppingcart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\0343ffa1-8cd1-4d12-93f1-d5012415de62_grey shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\0343ffa1-8cd1-4d12-93f1-d5012415de62_grey shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\08bce70d-0408-4f4d-a542-af9261f2041c_grey shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\08bce70d-0408-4f4d-a542-af9261f2041c_grey shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\3042dace-49c0-4cb0-acb9-5a8d9ea0bd6d_grey shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\3042dace-49c0-4cb0-acb9-5a8d9ea0bd6d_grey shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\5aabb22c-0f5c-4172-bd13-8c6d68b23576_grey shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\5aabb22c-0f5c-4172-bd13-8c6d68b23576_grey shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\Watermelon.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\Watermelon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\a8381768-e43b-47b7-bda8-99ca9c98da58_grey shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\a8381768-e43b-47b7-bda8-99ca9c98da58_grey shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\apples.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\apples.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\bananas.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\bananas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\black shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\black shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\blue shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\blue shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\c2a86231-6fbc-487f-92c7-e083a124d13b_grey shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\c2a86231-6fbc-487f-92c7-e083a124d13b_grey shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\dea5dc9f-d99c-4cf9-8213-43555334f179_grapefruit.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\dea5dc9f-d99c-4cf9-8213-43555334f179_grapefruit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\e2b8d2dd-14ac-4e99-bb58-a17d394a1b63_apples.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\e2b8d2dd-14ac-4e99-bb58-a17d394a1b63_apples.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\ea6a777a-db09-475b-973b-56e763436648_grey shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\ea6a777a-db09-475b-973b-56e763436648_grey shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\ffa6cb69-d6bc-48dd-9792-5f2efd827c89_grey shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\ffa6cb69-d6bc-48dd-9792-5f2efd827c89_grey shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\grape.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\grape.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\grapefruit.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\grapefruit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\noimage.png",
+      "PackagePath": "staticwebassets\\media\\products\\noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\white shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\white shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\media\\products\\yellow shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\yellow shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\css\\style.bundle.css",
+      "PackagePath": "staticwebassets\\metronic\\css\\style.bundle.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\account\\api-keys\\api-keys.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\account\\api-keys\\api-keys.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\account\\billing\\general.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\account\\billing\\general.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\account\\referrals\\referral-program.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\account\\referrals\\referral-program.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\account\\security\\license-usage.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\account\\security\\license-usage.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\account\\security\\security-summary.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\account\\security\\security-summary.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\account\\settings\\deactivate-account.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\account\\settings\\deactivate-account.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\account\\settings\\profile-details.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\account\\settings\\profile-details.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\account\\settings\\signin-methods.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\account\\settings\\signin-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\apps\\chat\\chat.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\chat\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\pages\\user-profile\\general.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\pages\\user-profile\\general.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\create-app.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\create-app.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\new-address.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\new-address.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\new-card.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\new-card.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\complete.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\complete.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\details.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\details.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\finance.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\finance.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\main.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\type.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\type.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\two-factor-authentication.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\two-factor-authentication.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\upgrade-plan.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\upgrade-plan.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\users-search.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\users-search.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\custom\\widgets.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\widgets.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\scripts.bundle.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\scripts.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\stage\\task1\\ShoppingCart\\ShoppingCart\\wwwroot\\metronic\\js\\widgets.bundle.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\widgets.bundle.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ShoppingCart.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ShoppingCart.props",
+      "PackagePath": "build\\ShoppingCart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ShoppingCart.props",
+      "PackagePath": "buildMultiTargeting\\ShoppingCart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ShoppingCart.props",
+      "PackagePath": "buildTransitive\\ShoppingCart.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
